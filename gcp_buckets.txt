@@ -1,0 +1,4 @@
+https://storage.googleapis.com/dsu-models-20020301/example-1-sklearn/rfr_regressor.joblib
+https://storage.googleapis.com/dsu-models-20020301/example-1-sklearn/rfr_regressor.onnx
+https://storage.googleapis.com/dsu-models-20020301/example-2-pytorch/hot_dog_resnet50_256_256.onnx
+https://storage.googleapis.com/dsu-models-20020301/example-2-pytorch/hot_dog_resnet50_256_256.pkl
